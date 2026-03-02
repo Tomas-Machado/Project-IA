@@ -276,8 +276,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with 🥵 for the Artificial Intelligence Course**
-
 *University of Minho • 2025*
 
 </div>
